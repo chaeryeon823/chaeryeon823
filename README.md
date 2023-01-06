@@ -1,15 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=header"/>
 
-<div class="all" align="center">
+<div align="center">
 
-  <div class="rightt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeryeon823&layout=compact&langs_count=8&theme=aura_dark"/>
-  </div>
- <div class="leftt">
-### ✨ ChaeRyeon
-<img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white"/>
-
-### ✏️ Language Studying
+ 
+ ### ✏️ Language Studying
 
 <img src="https://img.shields.io/badge/JAVA-3a75b0?style=flat"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -24,9 +19,8 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
-  </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=footer"/>
-</div>
+
 <!--
 **chaeryeon823/chaeryeon823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
