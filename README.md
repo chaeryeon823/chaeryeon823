@@ -4,7 +4,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=header"/>
 
  ### ✨ ChaeRyeon
- <img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white"/>
+ <a href="mailto:chaechae823@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 
   
   
