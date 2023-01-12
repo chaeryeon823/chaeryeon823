@@ -23,10 +23,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <br><br>
-<a href="https://github.com/NadudAn">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chaeryeon823&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaeryeon823&layout=compact&langs_count=8&theme=radical"/>
-</a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaeryeon823&layout=compact&langs_count=8&theme=radical"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=footer"/>
 
 </div>
