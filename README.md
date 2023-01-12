@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api?username=chaeryeon823&show_icons=true&theme=radical"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=footer"/>
 
 </div>
