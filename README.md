@@ -2,12 +2,12 @@
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=header"/>
 
- ### ✨ ChaeRyeon
+ ### ✨ ChaeRyeon  ✨
  <a href="mailto:chaechae823@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
 
   
   
- ### ✏️ Language Studying
+ ### ✏️ Language Studying  ✏️
 
 <img src="https://img.shields.io/badge/JAVA-3a75b0?style=flat"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
 
-### 🛠️ Tools
+### 🛠️ Tools  🛠️
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/>
