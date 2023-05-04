@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <br><br>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaeryeon823&layout=compact&langs_count=8&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaeryeon823&layout=compact&langs_count=8&theme=radical&count_private=true"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=footer"/>
 
 </div>
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeryoen823&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  <img align="right" src="https://gith&count_private=true&ub-readme-stats.vercel.app/api/top-langs/?username=chaeryoen823&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
 -->
