@@ -23,9 +23,10 @@
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <br><br>
+<!--
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chaeryeon823&layout=compact&langs_count=8&theme=radical&count_private=true"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff7372&height=100&section=footer"/>
-
+-->
 </div>
 
 
