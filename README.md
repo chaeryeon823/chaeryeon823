@@ -4,6 +4,8 @@
 
  ### ✨ ChaeRyeon ✨
  <a href="mailto:chaechae823@naver.com"><img src="https://img.shields.io/badge/Naver Mail-03C75A?style=flat&logo=Naver&logoColor=white"/></a>
+ <a href="https://solved.ac/chch_xili"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=chch_xili"/></a>
+
 
   
   
