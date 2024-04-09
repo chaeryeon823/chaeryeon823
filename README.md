@@ -16,9 +16,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black" />
 
-### 🛠️ Tools  🛠️
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 
 <br><br>
 <!--
